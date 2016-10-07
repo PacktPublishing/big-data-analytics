@@ -29,6 +29,7 @@ Prerequisites for using virtual machines on your laptop:
 (HDP Sandbox will not run on IE 10)
 *  Putty
 *  WinScP
+
 The Python and Scala programming languages are used in chapters, with more focus 
 on Python. It is assumed that readers have a basic programming background in Java, 
 Scala, Python, SQL, or R, with basic Linux experience. Working experience within 
