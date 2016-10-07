@@ -1,0 +1,1 @@
+sc.parallelize(range(1000)).map(lambda x: x * x).take(10)
